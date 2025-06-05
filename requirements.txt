@@ -1,0 +1,6 @@
+streamlit == 1.43.0
+mysql-connector-python == 9.2.0
+plotly == 6.0.0
+numpy == 2.2.3
+mysql-connector-python == 9.2.0
+pandas == 2.2.3
