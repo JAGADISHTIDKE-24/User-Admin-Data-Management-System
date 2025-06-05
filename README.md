@@ -27,7 +27,7 @@ pip install streamlit pandas mysql-connector-python
 
 ### Running the Application
 ```sh
-streamlit run app.py
+streamlit run Home.py
 ```
 
 ## File Structure
@@ -38,7 +38,7 @@ streamlit run app.py
 │   ├── audit_logger.py  # Logs user activities
 │   ├── admin.py  # Admin panel functionalities
 │   ├── user.py  # User functionalities
-├── app.py  # Main Streamlit application
+├── Home.py  # Main Streamlit application
 ├── README.md  # Project documentation
 ```
 
